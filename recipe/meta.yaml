@@ -10,7 +10,7 @@ source:
   sha256: 274d7dcc09f4d9fa364ac6f002e614354f4b554a4ca3a7c3dfa3002cd006e7f5
 
 build:
-  number: 0
+  number: 1000
   entry_points:
     - schema-salad-tool=schema_salad.main:main
     - schema-salad-doc=schema_salad.makedoc:main
