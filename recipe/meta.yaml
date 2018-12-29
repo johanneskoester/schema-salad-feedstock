@@ -34,7 +34,7 @@ requirements:
     - setuptools
     - six >=1.8.0
     - typing >=3.6.4  # [not py37]
-    - typing_extensions  # [py2k or py36]
+    - typing_extensions
     - future  # [py3k]
 
 test:
